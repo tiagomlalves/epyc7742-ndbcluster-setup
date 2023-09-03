@@ -1,6 +1,7 @@
 # MySQL NDB Cluster 8.0.26 "cluster-in-a-box" setup
 
 This repository contains the original configuration files used in the blog post "Scale-up MySQL NDB Cluster 8.0.26 to +1.5M QPS the easy way with AMD EPYC 7742"
+([medium](https://tiagomlalves.medium.com/scale-up-mysql-ndb-cluster-8-0-26-to-1-5m-qps-the-easy-way-with-amd-epyc-7742-3e2e42a6bd0) | [MySQL Blogs](https://dev.mysql.com/blog-archive/scale-up-mysql-ndb-cluster-8-0-26-to-1-5m-qps/) | [AMD Performance Brief](https://www.amd.com/content/dam/amd/en/documents/epyc-business-docs/performance-briefs/amd-epyc-7002-pb-mysql-ndb-cluster-qps.pdf))
 
 Files are:
  * config.ini - MySQL NDB Management Node configuration file
